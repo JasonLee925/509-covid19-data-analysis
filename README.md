@@ -12,3 +12,9 @@ We analyse a given covid19 data set and practice common statistics by using pyth
 1. Perform data transformation (normalisation/discretisation).
 1. Find the correlation between each column.
 1. ... (more)
+
+
+## Contributors
+1. Jonna Felicia
+1. Marco Tan
+1. Sheng Lee
